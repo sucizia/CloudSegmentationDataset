@@ -1,1 +1,1 @@
-This is a subset of the ground-based cloud segmentation dataset. Images in "Images" refers to the original cloud image and those in "Segmentaion" are the ground-truth segmentation results.
+This is a subset of the ground-based cloud segmentation dataset. Images in "Images" refer to the original cloud image and those in "Segmentaion" are the ground-truth segmentation results.
